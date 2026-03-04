@@ -1,13 +1,13 @@
 {
-  "name": "hugo-blox-dev-portfolio-free",
-  "version": "1.0.0",
-  "private": true,
-  "packageManager": "pnpm@10.14.0",
-  "description": "Modern developer portfolio template for Hugo Blox with Tailwind CSS v4 - Free version",
-  "scripts": {
-    "dev": "hugo server --disableFastRender",
-    "build": "hugo --minify && pnpm run pagefind",
-    "pagefind": "pagefind --site public"
+  "comments": {
+    "dependencies": {
+      "@tailwindcss/cli": "project",
+      "@tailwindcss/typography": "project",
+      "pagefind": "project",
+      "preact": "project",
+      "tailwindcss": "project"
+    },
+    "devDependencies": {}
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.12",
@@ -15,5 +15,16 @@
     "pagefind": "^1.4.0",
     "preact": "^10.27.2",
     "tailwindcss": "^4.1.12"
-  }
+  },
+  "description": "Modern developer portfolio template for Hugo Blox with Tailwind CSS v4 - Free version",
+  "devDependencies": {},
+  "name": "hugo-blox-dev-portfolio-free",
+  "packageManager": "pnpm@10.14.0",
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify && pnpm run pagefind",
+    "dev": "hugo server --disableFastRender",
+    "pagefind": "pagefind --site public"
+  },
+  "version": "1.0.0"
 }
