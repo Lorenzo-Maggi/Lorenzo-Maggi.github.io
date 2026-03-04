@@ -1,100 +1,118 @@
 schema: hugoblox/author/v1
-slug: me
+slug: admin
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
-postnominals: []
+  display: Lorenzo Maggi
+  given: Lorenzo
+  family: Maggi
+postnominals: ["PhD"]
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+#  icon: "🔬"
+role: R&D Engineer & Biomedical Engineer
+email: lore.maggi.1996@gmail.com
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Hands-on biomedical engineer (PhD) with experience in surgical robotics, knee biomechanics, and ex-vivo experimentation.
+  Strong maker mindset (mechanics, electronics, 3D printing) and a focus on translational research.
 
 affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
+  - name: Orthokey Italia Srl
+    url: ""
+  - name: University of Florence
+    url: ""
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:lore.maggi.1996@gmail.com
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/alexjohnson
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://www.linkedin.com/in/lorenzo-maggi-398340209/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.it/citations?user=MI3KMgwAAAAJ
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - Surgical Robotics & Control
+  - Knee Biomechanics
+  - Ex-vivo Experimentation
+  - Rapid Prototyping & DIY
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
+  - degree: PhD in Industrial Engineering
+    institution: University of Florence - Orthokey Italia Srl
+    start: 2022-11-01
+    end: 2025-10-31
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
-    button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
+      Development of an innovative knee laxity assessment robotic tool based on KUKA LBR Med.
+      Development of a force-feedback control for rehabilitation hand exoskeleton.
+  - degree: Licence of Professional Engineer
+    institution: University of Florence
+    end: 2023-01-24    
+  - degree: MSc in Biomedical Engineering cum Laude
+    institution: University of Florence
+    end: 2022-10-31
+  - degree: BSc in Mechanical Engineering
+    institution: University of Florence
+    end: 2021-02-28
 
 experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
+  - role: R&D Engineer
+    org: Orthokey Italia Srl
+    start: 2025-11-01
     summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
+      Co-development of Robin® robotic system for TKA.
+      KUKA LBR Med software development.
+      ISO 13485 compliant design control and documentation.
+      ISO 60601 compliant design.
+  - role: Visiting PhD Researcher
+    org: Université Libre de Bruxelles
+    start: 2024-09-01
+    end: 2025-03-01
     summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
+      Development of a portable knee kinematic simulator for kinematic analysis of different TKA implants.
+      Implementation of a PID controller to simulate quadriceps tendon loading.
+  - role: PhD Researcher
+    org: Orthokey Italia Srl - University of Florence
+    start: 2022-11-01
+    end: 2025-10-31
     summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
+      Industrial experience at Orthokey Italia Srl alongside academic research.
+      Design and assembly of an instrumented platform for neurological experiments on murine models in collaboration with CNR.
+  - role: Mechanical Design Engineer
+    start: 2021-11-01
+    end: 2022-04-01
+    summary: |
+      Developlment of a test rig for wear testing on composite materials.
 
 skills:
-  - name: Development
+  - name: Software & Control
     items:
-      - label: TypeScript
-        level: 5
-      - label: React
-        level: 5
-      - label: Node.js
-        level: 5
       - label: Python
-        level: 4
-  - name: DevOps
+      - label: C/C++
+      - label: MATLAB
+      - label: Java
+      - label: Arduino 
+  - name: Hardware & Robotics
     items:
-      - label: Docker
-        level: 4
-      - label: AWS
-        level: 4
-      - label: CI/CD
-        level: 5
+      - label: Robotic control
+      - label: KUKA LBR Med
+      - label: SolidWorks
+      - label: Microcontroller programming
+  - name: Lab & Maker
+    items:
+      - label: 3D Printing (FDM)
+      - label: Soldering (incl. SMD)
+      - label: Sensor Calibration
+      - label: Mechanical Assembly
+      - label: Electronics Prototyping
 
 languages:
-  - name: English
+  - name: Italian
     level: 5
     label: Native
+  - name: English
+    level: 4
+    label: Fluent
+  - name: Spanish
+    level: 2
+    label: Beginner
 
 awards: []

@@ -13,7 +13,7 @@ sections:
   - block: dev-hero
     id: hero
     content:
-      username: Lorenzo Maggi
+      username: me
       greeting: "Hi, I'm"
       show_status: true
       show_scroll_indicator: true
@@ -61,8 +61,8 @@ sections:
           tag: '*'
         - name: Robotics & MedTech
           tag: Robotics
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Research
+          tag: Research 
         - name: Maker & DIY
           tag: Maker
       default_button_index: 0
@@ -92,21 +92,29 @@ sections:
               icon: devicon/java
             - name: MATLAB
               icon: devicon/matlab
-        - name: Engineering & Robotics
-          items:
-            - name: KUKA LBR Med
-              icon: fas/robot  # Usiamo un'icona robot generica
-            - name: SolidWorks
-              icon: fas/cube
             - name: Arduino
               icon: devicon/arduino
+        - name: Engineering & Robotics
+          items:
+            - name: Robotic control
+              icon: fas/robot  
+            - name: KUKA LBR Med
+              icon: fas/robot  
+            - name: SolidWorks
+              icon: fas/cube
+            - name: Microcontroller programming
+              icon: fas/cube
         - name: Lab & Prototyping
           items:
             - name: 3D Printing (FDM)
               icon: fas/print
-            - name: Soldering (PTH & SMD)
+            - name: Soldering (incl. SMD)
               icon: fas/microchip
             - name: Sensor Calibration
+              icon: fas/sliders
+            - name: Mechanical Assembly
+              icon: fas/sliders
+            - name: Electronics Prototyping
               icon: fas/sliders
     design:
       style: grid
@@ -118,6 +126,21 @@ sections:
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
 
+# Experience Timeline
+  - block: resume-experience
+    id: experience
+    content:
+      title: Experience
+      date_format: Jan 2006
+    design:
+      columns: '1'
+      background:
+        color:
+          light: "#ffffff"
+          dark: "#0d0d12"
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
+        
   # 3. CONTACT SECTION
   - block: contact-info
     id: contact
