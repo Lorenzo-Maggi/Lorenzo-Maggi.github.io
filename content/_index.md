@@ -99,23 +99,23 @@ sections:
             - name: Robotic control
               icon: fas/robot  
             - name: KUKA LBR Med
-              icon: fas/robot  
+              icon: fas/robotMed
             - name: SolidWorks
-              icon: fas/cube
+              icon: fas/CAD
             - name: Microcontroller programming
-              icon: fas/cube
+              icon: fas/ucontroller
         - name: Lab & Prototyping
           items:
             - name: 3D Printing (FDM)
               icon: fas/print
-            - name: Soldering (incl. SMD)
-              icon: fas/microchip
             - name: Sensor Calibration
-              icon: fas/sliders
+              icon: fas/sensor
+            - name: Soldering (incl. SMD)
+              icon: fas/solder
             - name: Mechanical Assembly
-              icon: fas/sliders
-            - name: Electronics Prototyping
-              icon: fas/sliders
+              icon: fas/mechanincs
+            - name: Electronic Prototyping
+              icon: fas/electronics
     design:
       style: grid
       show_levels: false
