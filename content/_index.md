@@ -59,7 +59,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Robotics & MedTech
+        - name: Robotics
           tag: Robotics
         - name: Research
           tag: Research 
