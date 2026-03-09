@@ -101,9 +101,9 @@ sections:
             - name: Robotic control
               icon: fas/robot  
             - name: KUKA LBR Med
-              icon: fas/robotMed
+              icon: fas/robotmed
             - name: SolidWorks
-              icon: fas/CAD
+              icon: fas/cad
             - name: Microcontroller programming
               icon: fas/ucontroller
             - name: Knee Biomechanics
