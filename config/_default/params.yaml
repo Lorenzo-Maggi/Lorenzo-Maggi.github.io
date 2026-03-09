@@ -22,9 +22,6 @@ hugoblox:
     tagline: "Biomedical Engineer (PhD)"
     # Site meta description for search engines and social sharing
     description: "Modern developer portfolio showcasing web development projects, technical blog posts, and open source contributions. Built with Hugo Blox."
-    # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "yourusername"              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -74,7 +71,7 @@ hugoblox:
     # Spacing density: 'compact', 'comfortable', or 'spacious'
     spacing: "comfortable"
     # Avatar shape in author profiles
-    avatar_shape: circle                # circle | square | rounded
+    avatar_shape: rounded                # circle | square | rounded
 
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER

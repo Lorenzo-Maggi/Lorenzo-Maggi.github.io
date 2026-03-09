@@ -7,7 +7,7 @@ name:
   family: Maggi
 postnominals: ["PhD"]
 status:
-icon: "🔬🛠️"
+icon: "🛠️"
 role: R&D Engineer & Biomedical Engineer
 email: lore.maggi.1996@gmail.com
 bio: |
@@ -29,11 +29,6 @@ links:
   - icon: academicons/google-scholar
     url: https://scholar.google.it/citations?user=MI3KMgwAAAAJ
 
-interests:
-  - Surgical Robotics & Control
-  - Knee Biomechanics
-  - Ex-vivo Experimentation
-  - Rapid Prototyping & DIY
 
 education:
   - degree: PhD in Industrial Engineering
@@ -81,38 +76,5 @@ experience:
     end: 2022-04-01
     summary: |
       Developlment of a test rig for wear testing on composite materials.
-
-skills:
-  - name: Software & Control
-    items:
-      - label: Python
-      - label: C/C++
-      - label: MATLAB
-      - label: Java
-      - label: Arduino 
-  - name: Hardware & Robotics
-    items:
-      - label: Robotic control
-      - label: KUKA LBR Med
-      - label: SolidWorks
-      - label: Microcontroller programming
-  - name: Lab & Maker
-    items:
-      - label: 3D Printing (FDM)
-      - label: Soldering (incl. SMD)
-      - label: Sensor Calibration
-      - label: Mechanical Assembly
-      - label: Electronics Prototyping
-
-languages:
-  - name: Italian
-    level: 5
-    label: Native
-  - name: English
-    level: 4
-    label: Fluent
-  - name: Spanish
-    level: 2
-    label: Beginner
 
 awards: []

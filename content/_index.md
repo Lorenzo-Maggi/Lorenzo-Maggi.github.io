@@ -16,7 +16,7 @@ sections:
       username: me
       greeting: "Hi, I'm"
       show_status: true
-      show_scroll_indicator: true
+      show_scroll_indicator: false
       typewriter:
         enable: true
         prefix: "I am a"
@@ -25,12 +25,12 @@ sections:
           - "PhD Researcher"
           - "Robotics Enthusiast"
           - "Maker & DIYer"
-        type_speed: 70
+        type_speed: 40
         delete_speed: 40
-        pause_time: 2500
+        pause_time: 1000
       cta_buttons:
         - text: View My Projects
-          url: "#projects"
+          url: "#project"
           icon: arrow-down
         - text: Get In Touch
           url: "#contact"
@@ -44,13 +44,13 @@ sections:
           light: "#fafafa"
           dark: "#0a0a0f"
       spacing:
-        padding: ["6rem", "0", "4rem", "0"]
+        padding: ["2rem", "0", "0rem", "0"]
   
   # 2. PORTFOLIO SECTION
   - block: portfolio
-    id: projects
+    id: project
     content:
-      title: "Featured Projects"
+      title: "Featured projects"
       subtitle: "Bridging the gap between engineering, robotics, and maker culture"
       count: 0
       filters:
@@ -96,6 +96,8 @@ sections:
               icon: devicon/arduino
         - name: Engineering & Robotics
           items:
+            - name: Robotic surgery
+              icon: fas/surgery
             - name: Robotic control
               icon: fas/robot  
             - name: KUKA LBR Med
@@ -104,9 +106,12 @@ sections:
               icon: fas/CAD
             - name: Microcontroller programming
               icon: fas/ucontroller
+            - name: Knee Biomechanics
+              icon: fas/knee
+
         - name: Lab & Prototyping
           items:
-            - name: 3D Printing (FDM)
+            - name: 3D Printing
               icon: fas/print
             - name: Sensor Calibration
               icon: fas/sensor
@@ -116,6 +121,19 @@ sections:
               icon: fas/mechanincs
             - name: Electronic Prototyping
               icon: fas/electronics
+
+        - name: Language & other skills 
+          items:
+            - name: Italian (native)
+              icon: fas/italian
+            - name: English (C1)
+              icon: fas/english
+            - name: Spanish (A2) 
+              icon: fas/spanish
+            - name: Volunteer EMT & driver
+              icon: fas/ambulance
+            - name: BLSD operator and trainer
+              icon: fas/dae
     design:
       style: grid
       show_levels: false
@@ -163,9 +181,9 @@ sections:
   # 4. CTA CARD (CV DOWNLOAD)
   - block: cta-card
     content:
-      title: "Looking for my full background?"
+      title: "Looking for a pdf version?"
       text: |-
-        Download my complete curriculum vitae to see my academic publications, work experience, and technical skills.
+        Download my resume via the following link:
       button:
         text: 'Download CV'
         url: uploads/MaggiLorenzo_CVeng.pdf

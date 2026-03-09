@@ -4,17 +4,14 @@
 
 main:
   - name: Projects
-    url: /#projects
+    url: /#project
     weight: 10
   - name: Skills
     url: /#skills
     weight: 20
-  - name: Experience
+  - name: Experience & Education
     url: /#experience
     weight: 30
-  - name: Education
-    url: /#education
-    weight: 40
   - name: Contact
     url: /#contact
-    weight: 50
+    weight: 40

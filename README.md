@@ -98,7 +98,7 @@ hugoblox create site --template dev-portfolio
 
 - **Your profile**: `data/authors/me.yaml`
 - **Homepage sections**: `content/_index.md`
-- **Projects**: `content/projects/<project>/index.md`
+- **Projects**: `content/project/<project>/index.md`
 - **Blog posts**: `content/blog/<post>/index.md`
 - **Theme + identity**: `config/_default/params.yaml`
 
