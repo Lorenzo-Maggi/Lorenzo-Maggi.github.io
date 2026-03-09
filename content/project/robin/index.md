@@ -2,7 +2,7 @@
 title: "Robin"
 summary: "RIASSUNTO DI UNA RIGA"
 tags:
-  - Robotics
+  - rbotics
 date: 2023-01-01
 image:
   caption: ""

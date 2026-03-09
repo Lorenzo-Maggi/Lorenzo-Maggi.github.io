@@ -2,7 +2,7 @@
 title: "Mouse DLC"
 summary: "RIASSUNTO DI UNA RIGA"
 tags:
-  - Research
+  - research
 date: 2023-01-01
 image:
   caption: ""

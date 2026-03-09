@@ -60,11 +60,11 @@ sections:
         - name: All
           tag: '*'
         - name: Robotics
-          tag: Robotics
+          tag: robotics
         - name: Research
-          tag: Research 
+          tag: research 
         - name: Maker & DIY
-          tag: Maker
+          tag: maker
       default_button_index: 0
     design:
       columns: 3

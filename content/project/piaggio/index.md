@@ -2,7 +2,7 @@
 title: "Piaggio Si"
 summary: "RIASSUNTO DI UNA RIGA"
 tags:
-  - Maker
+  - maker
 date: 2023-01-01
 image:
   caption: ""

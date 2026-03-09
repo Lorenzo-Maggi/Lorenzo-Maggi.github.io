@@ -2,8 +2,8 @@
 title: "Knee-Lax"
 summary: "RIASSUNTO DI UNA RIGA"
 tags:
-  - Research
-  - Robotics
+  - research
+  - robotics
 date: 2023-01-01
 image:
   caption: ""

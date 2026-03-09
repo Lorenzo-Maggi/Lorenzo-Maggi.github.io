@@ -2,7 +2,7 @@
 title: "Normothermic Perfusion System for Ex-Vivo Organs"
 summary: "Design and development of an innovative perfusion platform for organ maintenance and physiological monitoring."
 tags:
-  - Research
+  - research
 date: 2022-10-01
 
 # Dati per la mattonella in homepage
