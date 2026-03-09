@@ -49,6 +49,10 @@ markup:
   _merge: deep
   highlight:
     lineNos: false
+  goldmark:
+    _merge: deep
+    renderer:
+      unsafe: true
 security:
   _merge: deep
 sitemap:

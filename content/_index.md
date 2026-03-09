@@ -45,6 +45,25 @@ sections:
           dark: "#0a0a0f"
       spacing:
         padding: ["2rem", "0", "0rem", "0"]
+
+
+# Video PhD Section
+  - block: markdown
+    id: video-phd
+    content:
+      title: "▶ My PhD in 3 Minutes"
+      subtitle: "A brief overview of my research in surgical robotics"
+      text: |
+        **[Watch on YouTube (Multi-language Subtitles Available)](https://youtu.be/5DqW-fMwWBU)**
+        [![My PhD in 3 Minutes](https://img.youtube.com/vi/5DqW-fMwWBU/maxresdefault.jpg)](https://youtu.be/5DqW-fMwWBU)
+    design:
+      columns: '1'
+      background:
+        color:
+          light: "#ffffff"
+          dark: "#0d0d12"
+      spacing:
+        padding: ["2rem", "0", "0rem", "0"]
   
   # 2. PORTFOLIO SECTION
   - block: portfolio
@@ -73,7 +92,7 @@ sections:
           light: "#ffffff"
           dark: "#0d0d12"
       spacing:
-        padding: ["4rem", "0", "4rem", "0"]
+        padding: ["0rem", "0", "4rem", "0"]
   
   # Visual Tech Stack
   - block: tech-stack
