@@ -31,50 +31,56 @@ links:
 
 
 education:
-  - degree: PhD in Industrial Engineering
-    institution: University of Florence - Orthokey Italia Srl
+  - degree: PhD in Industrial Engineering (Medical Robotics)
+    institution: University of Florence & Orthokey Italia Srl
     start: 2022-11-01
     end: 2025-10-31
     summary: |
-      Development of an innovative knee laxity assessment robotic tool based on KUKA LBR Med.
-      Development of a force-feedback control for rehabilitation hand exoskeleton.
-  - degree: Licence of Professional Engineer
+      - Thesis: Knee-Lax: an innovative Robotic Intra-Operative Laxity assessment module for Robin system.
+      - Focus: Collaborative robotics (KUKA LBR Med), bimechanics, and ex-vivo testing.
+  - degree: Professional Engineering License (Esame di Stato)
     institution: University of Florence
-    end: 2023-01-24    
-  - degree: MSc in Biomedical Engineering cum Laude
+    end: 2023-01-24
+    summary: |
+      - Fully qualified to practice as a Professional Engineer in Italy.
+  - degree: MSc in Biomedical Engineering (110/110 cum Laude)
     institution: University of Florence
     end: 2022-10-31
+    summary: |
+      - Thesis: Design of a compact hypo & normo-thermic perfusion device for the transport and maintenance of explanted livers.
   - degree: BSc in Mechanical Engineering
     institution: University of Florence
     end: 2021-02-28
+    summary: |
+      - Thesis: Sensors study and optimization to prevent haemolysis in a normothermal perfusion system.
 
 experience:
   - role: R&D Engineer
     org: Orthokey Italia Srl
     start: 2025-11-01
     summary: |
-      Co-development of Robin® robotic system for TKA.
-      KUKA LBR Med software development.
-      ISO 13485 compliant design control and documentation.
-      ISO 60601 compliant design.
+      - Co-development of the Robin® robotic system for Total Knee Arthroplasty (TKA).
+      - Core software development for KUKA LBR Med (C/C++, Java, Python) and NDI Polaris optical tracking integration.
+      - Strict compliance with medical device regulations (ISO 13485, IEC 60601, IEC 80601).
   - role: Visiting PhD Researcher
     org: Université Libre de Bruxelles
     start: 2024-09-01
     end: 2025-03-01
     summary: |
-      Development of a portable knee kinematic simulator for kinematic analysis of different TKA implants.
-      Implementation of a PID controller to simulate quadriceps tendon loading.
-  - role: PhD Researcher
-    org: Orthokey Italia Srl - University of Florence
+      - Development of a portable, open-chain knee kinematic simulator for ex-vivo testing of TKA implants.
+      - Implementation of custom PID-controlled linear actuation to simulate physiological quadriceps tendon loading.
+  - role: PhD Researcher in Medical Robotics
+    org: Orthokey Italia Srl & University of Florence
     start: 2022-11-01
     end: 2025-10-31
     summary: |
-      Industrial experience at Orthokey Italia Srl alongside academic research.
-      Design and assembly of an instrumented platform for neurological experiments on murine models in collaboration with CNR.
+      - Developed robotic tools (Knee-Lax & Knee-Ki) using KUKA LBR Med for ex-vivo biomechanical evaluation.
+      - Mentored Master's students in the PNRR Tuscany Health Ecosystem (THE) framework for VR-exoskeleton integration.
+      - Engineered an automated tracking platform (DeepLabCut/GUI) for murine neurophysiological studies with CNR Pisa.
   - role: Mechanical Design Engineer
     start: 2021-11-01
     end: 2022-04-01
     summary: |
-      Developlment of a test rig for wear testing on composite materials.
+      - Design and development of an experimental test rig for tribological and wear testing on bi-material components for nautical applications.
 
 awards: []
