@@ -205,7 +205,7 @@ sections:
         Download my resume via the following link:
       button:
         text: 'Download CV'
-        url: uploads/MaggiLorenzo_CVeng.pdf
+        url: uploads/Maggi_Lorenzo_CV_eng.pdf
         new_tab: true
     design:
       card:
