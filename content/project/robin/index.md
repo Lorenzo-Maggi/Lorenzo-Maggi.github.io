@@ -12,8 +12,8 @@ image:
 During my tenure at Orthokey Italia Srl, I actively contributed to the development of the Robin® robotic system, an active robotic assistant for Total Knee Arthroplasty (TKA). 
 
 ### Technical Overview
-* **Norm compliance:** ISO 13485, IEC 60601, IEC 80601.
+* **Norm compliance:** ISO 13485, IEC 60601, IEC 80601, IEC 62304.
 * **Robotic Architecture:** Development of JAVA application for KUKA LBR Med collaborative robot manipulator. 
 * **System Architecture:** Integration of an active anthropomorphic arm with a proprietary optical tracking system (NDI Polaris) for precise spatial simultaneous world-hand-eye registration.
-* **Core Responsibilities:** Development of control algorithms for autonomous bone milling and implementation of safety constraints to protect soft tissues during surgery.
-* **Technologies Used:** C/C++, JAVA, Python, advanced robotic kinematics, and strict compliance with medical device regulations.
+* **Core Responsibilities:** Development of control algorithms for cutting guide positioning.
+* **Technologies Used:** C/C++, JAVA, Python, MQTT, advanced robotic kinematics, and strict compliance with medical device regulations.
