@@ -1,6 +1,6 @@
 ---
-title: "Knee-Lax: Ex-Vivo Laxity Assessment"
-summary: "Development of a KUKA LBR Med-based robotic system for biomechanical evaluation of knee laxity."
+title: "Knee-Lax: Intra-Operative Laxity Assessment"
+summary: "Development of a KUKA LBR Med-based robotic system for intra-operative biomechanical evaluation of knee laxity."
 tags:
   - robotics
   - research
@@ -10,7 +10,7 @@ image:
   focal_point: Smart
 ---
 
-As part of my PhD research, I developed the Knee-Lax system, an innovative robotic tool designed to assess the laxity of ex-vivo knee joints, comparing native conditions with post-TKA scenarios.
+As part of my PhD research, I developed the Knee-Lax system, an innovative robotic tool designed to intra-operatively assess the laxity of knee joints, comparing native conditions with post-TKA scenarios.
 
 ### Project Details
 * **Hardware Integration:** Utilized a collaborative KUKA LBR Med 14 R820 robot combined with an NDI Polaris Vega optical tracker.
