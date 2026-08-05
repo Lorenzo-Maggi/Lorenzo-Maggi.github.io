@@ -57,8 +57,13 @@ education:
 
 experience:
   - role: R&D Engineer
+    org: Clover Orthopedics Srl
+    start: 2026-09-07
+
+  - role: R&D Robotics and Biomedical Engineer
     org: Orthokey Italia Srl
     start: 2025-11-01
+    end: 2026-08-14
     summary: |
       - Co-development of the Robin® robotic system for Total Knee Arthroplasty (TKA).
       - Core software development for KUKA LBR Med (C/C++, Java, Python) and NDI Polaris optical tracking integration.
