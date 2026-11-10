@@ -5,6 +5,7 @@ tags:
   - robotics
   - research
 date: 2025-10-01
+url_video: "https://youtu.be/5DqW-fMwWBU"
 image:
   caption: "Knee-Lax System"
   focal_point: Smart

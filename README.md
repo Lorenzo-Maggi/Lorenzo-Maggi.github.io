@@ -1,124 +1,89 @@
-# [Developer Portfolio](https://hugoblox.com/templates/dev-portfolio/start?utm_source=github&utm_medium=readme)
+# Lorenzo Maggi, PhD — Personal Portfolio & Academic Showcase
 
-[![Screenshot](.github/preview.png)](https://hugoblox.com/templates/dev-portfolio/start?utm_source=github&utm_medium=readme)
+[![Website](https://img.shields.io/badge/Website-lorenzo--maggi.github.io-blue?style=flat&logo=googlechrome)](https://lorenzo-maggi.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Maggi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/lorenzo-maggi-398340209/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat&logo=googlescholar)](https://scholar.google.it/citations?user=MI3KMgwAAAAJ)
+[![GitHub](https://img.shields.io/badge/GitHub-Lorenzo--Maggi-181717?style=flat&logo=github)](https://github.com/Lorenzo-Maggi)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-<h1 align="center">The Dev Portfolio That Gets You Hired</h1>
+Source code for the personal portfolio website of **Lorenzo Maggi, PhD** — R&D Biomedical & Robotics Engineer specializing in surgical robotics (KUKA LBR Med), knee biomechanics, spinal implant design, and medical device regulations.
 
-<p align="center">
-  <strong>Built for uni students, STEM grads, and software engineers.</strong><br/>
-  Showcase real projects, ship a clean blog, and stand out with a modern dark-first design — without a fragile “black box” React app.
-</p>
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/dev-portfolio/start?utm_source=github&utm_medium=readme"><b>🚀 Deploy in 60s (Free)</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/?open=dev-portfolio&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
-  &nbsp;•&nbsp;
-  <a href="https://docs.hugoblox.com/guides/studio/">HugoBlox Studio (Visual Editor)</a>
-</p>
-
-
-<p align="center">
-  <b>▶︎ Watch 12s Preview</b>
-</p>
-
-https://github.com/user-attachments/assets/a6b676c0-1c10-4734-a55f-68c6f72d1612
-
-<p align="center">
-  <a href="https://discord.gg/z8wNYzb"><img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord"></a>
-  <a href="https://github.com/HugoBlox/kit"><img src="https://img.shields.io/github/stars/HugoBlox/kit?label=Star%20HugoBlox&style=social" alt="GitHub Stars"></a>
-  <a href="https://x.com/MakeOwnable"><img src="https://img.shields.io/twitter/follow/MakeOwnable?label=Follow&style=social" alt="Follow on X"></a>
-</p>
+🌐 **Live Website:** [https://lorenzo-maggi.github.io/](https://lorenzo-maggi.github.io/)
 
 ---
 
-## Why this template?
+## 🛠️ About Me
 
-Most portfolios look the same — and most “quick” site builders produce slow sites you can’t maintain.
+Hands-on biomedical & robotics engineer (PhD) with extensive experience in surgical robotics, joint biomechanics, mechanical design, and ex-vivo experimentation. Strong maker mindset (mechanics, electronics, 3D printing) combined with a focus on translational research and medical device compliance.
 
-- **⚡ Fast by default**: Hugo + Tailwind 4 + Hugo Modules → great Lighthouse scores without JS bloat.
-- **🧠 AI-ready content**: Your projects and posts live in clean Markdown/YAML — readable by humans and LLMs.
-- **🎯 Job-hunting optimized**: Projects, tech stack, experience timeline, and a blog layout that looks credible.
-- **🌙 Dark-first (but light-mode supported)**: Looks premium in dark mode, still works perfectly in light mode.
-- **🧩 Block-based**: Reorder/replace sections without rewriting templates.
+* **Current Role:** R&D Spine Implants Engineer at [Clover Orthopedics Srl](https://cloverorthopedics.com)
+* **PhD in Industrial Engineering (cum Laude):** University of Florence & [Orthokey Italia Srl](https://orthokey.com)
+* **Professional Engineering License:** Fully qualified Professional Engineer in Italy (Section A, Industrial Engineering)
 
 ---
 
-## Who it’s for
+## 🔬 Featured Projects
 
-- **Students & grads** applying to internships / MSc / PhD / junior roles
-- **STEM professionals** (research, data, ML, bio, engineering) showcasing projects and writing
-- **Software engineers** building a portfolio that feels modern in 2026
+| Project | Description | Tags |
+| :--- | :--- | :--- |
+| **[Knee-Lax](https://lorenzo-maggi.github.io/project/knee-lax/)** | Robotic system for intra-operative knee laxity assessment using KUKA LBR Med & NDI optical tracker | `robotics`, `research` |
+| **[Robin® System](https://lorenzo-maggi.github.io/project/robin/)** | Active robotic assistant for Total Knee Arthroplasty (TKA) compliant with ISO 13485 & IEC 62304 | `robotics`, `research` |
+| **[Knee-Ki](https://lorenzo-maggi.github.io/project/knee-ki/)** | Open-chain kinematic knee simulator with closed-loop PID quadriceps tendon actuation | `robotics`, `research` |
+| **[Mouse Pose Estimation](https://lorenzo-maggi.github.io/project/mouse-dlc/)** | Markerless facial expression tracking via DeepLabCut in collaboration with CNR-IN | `research` |
+| **[Normothermic Perfusion](https://lorenzo-maggi.github.io/project/normothermic-perfusion/)** | Organ maintenance platform for ex-vivo liver preservation and physiological monitoring | `research`, `maker` |
+| **[VR Hand Exoskeleton](https://lorenzo-maggi.github.io/project/flexo/)** | Unity 3D physics-based indentation estimation for kinesthetic hand exoskeleton feedback | `robotics`, `research` |
+| **[Bench Power Supply](https://lorenzo-maggi.github.io/project/psu/)** | Upcycled 450W ATX computer power supply into a programmable laboratory bench tool | `maker` |
+| **[DIY Sous-Vide Roner](https://lorenzo-maggi.github.io/project/roner/)** | 3D printed immersion circulator with custom PID temperature control | `maker` |
 
----
-
-## What you get (Free)
-
-- **Developer hero** with modern gradients + optional typewriter
-- **Filterable portfolio** (tags + smooth transitions)
-- **Tech stack** grid with icons
-- **Experience + education timeline**
-- **Blog section** (cards + featured images)
-- **Contact section** with social links + copy email
+▶️ *Watch the 3-minute thesis overview on YouTube:* **[My PhD in 3 Minutes](https://youtu.be/5DqW-fMwWBU)**
 
 ---
 
-## Get started (recommended)
+## 💻 Tech Stack
 
-### Option 1 — Online deployer (fastest)
+* **Programming & Control:** Python, C/C++, Java, MATLAB/Simulink, Arduino, ROS2
+* **Robotics & Hardware:** KUKA LBR Med 14 R820, NDI Polaris optical tracking, Microcontrollers, Force/Torque sensors
+* **CAD & Prototyping:** SolidWorks, 3D Printing (FDM/SLA), SMD soldering, Rapid electromechanical prototyping
+* **Regulatory & Quality:** EU MDR 2017/745, ISO 13485, ISO 14971, IEC 60601/80601, IEC 62304
 
-Deploy this template in ~60 seconds:
+---
 
-- [Deploy in browser →](https://hugoblox.com/templates/dev-portfolio/start?utm_source=github&utm_medium=readme)
+## 🚀 Building Locally
 
-### Option 2 — HugoBlox Studio (visual editor in VS Code)
+The site is built with [Hugo](https://gohugo.io/) and [Hugo Blox](https://hugoblox.com/) with Tailwind CSS.
 
-- [Studio guide →](https://docs.hugoblox.com/guides/studio/?utm_source=github&utm_medium=readme)
-- [Studio AI automation plans (Free/Plus/Pro) →](https://hugoblox.com/pricing/?utm_source=github&utm_medium=readme)
+### Prerequisites
+* [Hugo Extended](https://gohugo.io/installation/) (v0.140+)
+* [Go](https://golang.org/) (1.19+)
+* [Node.js](https://nodejs.org/) (v20+) & [pnpm](https://pnpm.io/)
 
-### Option 3 — HugoBlox CLI (developer workflow)
-
-Install:
-
+### Local Development Server
 ```bash
-npm install -g hugoblox@latest
+# Clone the repository
+git clone https://github.com/Lorenzo-Maggi/Lorenzo-Maggi.github.io.git
+cd Lorenzo-Maggi.github.io
+
+# Install Node dependencies
+pnpm install
+
+# Run local development server
+pnpm dev
+# or
+hugo server --disableFastRender
 ```
 
-Create a site:
+Visit `http://localhost:1313/` in your browser.
 
+### Production Build
 ```bash
-hugoblox create site --template dev-portfolio
+pnpm build
 ```
 
-[CLI docs →](https://docs.hugoblox.com/start/cli/?utm_source=github&utm_medium=readme)
+The site automatically builds and deploys to GitHub Pages on every push to `main` via GitHub Actions.
 
 ---
 
-## Customize in 10 minutes
+## 📄 License
 
-- **Your profile**: `data/authors/me.yaml`
-- **Homepage sections**: `content/_index.md`
-- **Projects**: `content/project/<project>/index.md`
-- **Blog posts**: `content/blog/<post>/index.md`
-- **Theme + identity**: `config/_default/params.yaml`
-
----
-
-## Want the Pro version? 💎
-
-If you want a version that feels meaningfully more premium (and helps fund open source + research):
-
-- [Premium template →](https://hugoblox.com/templates/dev-portfolio-pro/start?utm_source=github&utm_medium=readme)
-- [HugoBlox Pro / Studio →](https://hugoblox.com/pricing?utm_source=github&utm_medium=readme)
-
----
-
-## Community & support
-
-- **Docs**: [docs.hugoblox.com →](https://docs.hugoblox.com/?utm_source=github&utm_medium=readme)
-- **Discord**: [Join Discord →](https://discord.gg/z8wNYzb)
-- **Issues**: [Open an issue →](https://github.com/HugoBlox/kit/issues)
-
----
-
-MIT © 2016–Present [George Cushen](https://neuralgeo.com/?utm_source=github&utm_medium=readme)
+Content © 2026 Lorenzo Maggi. Licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Code and templates licensed under the [MIT License](LICENSE.md).

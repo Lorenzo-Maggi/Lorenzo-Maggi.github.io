@@ -69,7 +69,7 @@ sections:
   - block: portfolio
     id: project
     content:
-      title: "Featured projects"
+      title: "Featured Projects"
       subtitle: "Bridging the gap between engineering, robotics, and maker culture"
       count: 0
       filters:
@@ -156,7 +156,7 @@ sections:
             - name: IEC 62304
               icon: fas/norm
 
-        - name: Language & other skills 
+        - name: Language & Other Skills
           items:
             - name: Italian (native)
               icon: fas/italian
@@ -164,7 +164,7 @@ sections:
               icon: fas/english
             - name: Spanish (A2) 
               icon: fas/spanish
-            - name: Volunteer EMT & driver
+            - name: Volunteer EMT & Driver
               icon: fas/ambulance
             - name: BLSD operator and instructor
               icon: fas/dae

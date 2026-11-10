@@ -12,10 +12,20 @@ sections:
   - block: portfolio
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      subtitle: "Bridging the gap between engineering, robotics, and maker culture"
       filters:
         folders:
           - project
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Robotics
+          tag: robotics
+        - name: Research
+          tag: research
+        - name: Maker & DIY
+          tag: maker
+      default_button_index: 0
     design:
       view: article-grid
       fill_image: false

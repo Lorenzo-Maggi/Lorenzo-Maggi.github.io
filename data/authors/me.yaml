@@ -16,14 +16,16 @@ bio: |
 
 affiliations:
   - name: Clover Orthopedics Srl
-    url: ""
+    url: "https://cloverorthopedics.com"
   - name: University of Florence
-    url: ""
+    url: "https://www.unifi.it"
 
 links:
   - icon: at-symbol
     url: mailto:lore.maggi.1996@gmail.com
     label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Lorenzo-Maggi
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/lorenzo-maggi-398340209/
   - icon: academicons/google-scholar

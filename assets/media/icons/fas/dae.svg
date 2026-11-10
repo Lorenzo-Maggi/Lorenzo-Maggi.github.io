@@ -10,7 +10,7 @@
    version="1.1"
    height="60.601"
    width="60.601">
-  <title>自動体外式除細動器; Automated external defibrillator</title>
+  <title>Automated External Defibrillator</title>
   <metadata>
     <rdf:RDF>
       <cc:Work
@@ -18,7 +18,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>自動体外式除細動器; Automated external defibrillator</dc:title>
+        <dc:title>Automated External Defibrillator</dc:title>
         <dc:source></dc:source>
       </cc:Work>
     </rdf:RDF>
