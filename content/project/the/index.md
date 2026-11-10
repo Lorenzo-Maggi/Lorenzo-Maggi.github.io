@@ -10,7 +10,7 @@ image:
   focal_point: Smart
 ---
 
-During my PhD, within the **Tuscany Health Ecosystem (THE)** research program, I acted as a technical supervisor and co-advisor for several Master's theses including the integration of a rehabilitation hand exoskelton with a collaborative KUKA LBR.
+During my PhD, within the **Tuscany Health Ecosystem (THE)** research program, I acted as a technical supervisor and co-advisor for several Master's theses including the integration of a rehabilitation hand exoskeleton with a collaborative KUKA LBR.
 
 ### My Role (Supervision & Coordination)
 * **Technical Mentorship:** Provided daily guidance in the development and implementation of control and communication algorithms.

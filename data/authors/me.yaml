@@ -7,15 +7,15 @@ name:
   family: Maggi
 postnominals: ["PhD"]
 status:
-icon: "🛠️"
-role: R&D Engineer & Biomedical Engineer
+  icon: "🛠️"
+role: R&D Biomedical & Robotics Engineer
 email: lore.maggi.1996@gmail.com
 bio: |
-  Hands-on biomedical engineer (PhD) with experience in surgical robotics, knee biomechanics, and ex-vivo experimentation.
+  Hands-on biomedical & robotics engineer (PhD) with experience in surgical robotics, knee biomechanics, mechanical design and ex-vivo experimentation.
   Strong maker mindset (mechanics, electronics, 3D printing) and a focus on translational research.
 
 affiliations:
-  - name: Orthokey Italia Srl
+  - name: Clover Orthopedics Srl
     url: ""
   - name: University of Florence
     url: ""
@@ -37,13 +37,13 @@ education:
     end: 2025-10-31
     summary: |
       - Thesis: Knee-Lax: an innovative Robotic Intra-Operative Laxity assessment module for Robin system.
-      - Focus: Collaborative robotics (KUKA LBR Med), bimechanics, and ex-vivo testing.
+      - Focus: Collaborative robotics (KUKA LBR Med), biomechanics, and ex-vivo testing.
       - Defended with honors in April 2026.
   - degree: Professional Engineering License (Esame di Stato)
     institution: University of Florence
     end: 2023-01-24
     summary: |
-      - Fully qualified to practice as a Professional Engineer in Italy.
+      - Fully qualified to practice as a Professional Engineer in Italy (Section A, Industrial Engineering).
   - degree: MSc in Biomedical Engineering (110/110 cum Laude)
     institution: University of Florence
     end: 2022-10-31
@@ -56,39 +56,37 @@ education:
       - Thesis: Sensors study and optimization to prevent haemolysis in a normothermal perfusion system.
 
 experience:
-  - role: R&D Engineer
+  - role: R&D Spine Implants Engineer
     org: Clover Orthopedics Srl
     start: 2026-09-07
     summary: |
-      -Mechanical design and development of spinal implants.
+      - Mechanical design and development of spinal implants.
+      - EU MDR 2017/745 compliant design, risk analysis, and technical documentation review.
 
   - role: R&D Robotics and Biomedical Engineer
     org: Orthokey Italia Srl
     start: 2025-11-01
     end: 2026-08-14
     summary: |
-      - Co-development of the Robin® robotic system for Total Knee Arthroplasty (TKA).
-      - Core software development for KUKA LBR Med (C/C++, Java, Python) and NDI Polaris optical tracking integration.
-      - Strict compliance with medical device regulations (ISO 13485, IEC 60601, IEC 80601).
+      - Co-development of Robin® robotic system for TKA.
+      - Medical device design compliant with ISO 13485, ISO 14971, IEC 60601/80601, and IEC 62304.
+      - KUKA LBR Med software architecture and control implementation.
+      - Collaboration with CNR-IN on automated murine behavioral analysis via deep learning.
   - role: Visiting PhD Researcher
     org: Université Libre de Bruxelles
     start: 2024-09-01
     end: 2025-03-01
     summary: |
-      - Development of a portable, open-chain knee kinematic simulator for ex-vivo testing of TKA implants.
-      - Implementation of custom PID-controlled linear actuation to simulate physiological quadriceps tendon loading.
+      - Design and validation of KneeKi, a portable knee simulator for kinematic evaluation of TKA implants.
+      - Closed-loop PID controller implementation for physiological quadriceps tendon loading.
+      - Experimental testing campaigns on ex-vivo cadaveric knee specimens.
   - role: PhD Researcher in Medical Robotics
     org: Orthokey Italia Srl & University of Florence
     start: 2022-11-01
     end: 2025-10-31
     summary: |
-      - Developed robotic tools (Knee-Lax & Knee-Ki) using KUKA LBR Med for ex-vivo biomechanical evaluation.
-      - Mentored Master's students in the PNRR Tuscany Health Ecosystem (THE) framework for VR-exoskeleton integration.
-      - Engineered an automated tracking platform (DeepLabCut/GUI) for murine neurophysiological studies with CNR Pisa.
-  - role: Mechanical Design Engineer
-    start: 2021-11-01
-    end: 2022-04-01
-    summary: |
-      - Design and development of an experimental test rig for tribological and wear testing on bi-material components for nautical applications.
+      - Development of an innovative knee laxity assessment robotic tool based on KUKA LBR Med.
+      - Force-feedback control implementation for a rehabilitative hand exoskeleton.
+      - 2 years of Industrial experience at Orthokey Italia Srl.
 
 awards: []

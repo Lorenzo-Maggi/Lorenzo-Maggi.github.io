@@ -113,6 +113,8 @@ sections:
               icon: devicon/matlab
             - name: Arduino
               icon: devicon/arduino
+            - name: ROS2
+              icon: fas/ros2
         - name: Engineering & Robotics
           items:
             - name: Robotic surgery
@@ -130,16 +132,29 @@ sections:
 
         - name: Lab & Prototyping
           items:
-            - name: 3D Printing
+            - name: 3D Printing (FDM/SLA)
               icon: fas/print
             - name: Sensor Calibration
               icon: fas/sensor
             - name: Soldering (incl. SMD)
               icon: fas/solder
             - name: Mechanical Assembly
-              icon: fas/mechanincs
+              icon: fas/mechanics
             - name: Electronic Prototyping
               icon: fas/electronics
+
+        - name: Regulatory & QA
+          items:
+            - name: EU MDR 2017/745
+              icon: fas/norm
+            - name: ISO 13485
+              icon: fas/norm
+            - name: ISO 14971
+              icon: fas/norm
+            - name: IEC 60601/80601
+              icon: fas/norm
+            - name: IEC 62304
+              icon: fas/norm
 
         - name: Language & other skills 
           items:
@@ -151,7 +166,7 @@ sections:
               icon: fas/spanish
             - name: Volunteer EMT & driver
               icon: fas/ambulance
-            - name: BLSD operator and trainer
+            - name: BLSD operator and instructor
               icon: fas/dae
     design:
       style: grid
@@ -167,7 +182,8 @@ sections:
   - block: resume-experience
     id: experience
     content:
-      title: Experience
+      username: me
+      title: Experience & Education
       date_format: Jan 2006
     design:
       columns: '1'
@@ -205,7 +221,7 @@ sections:
         Download my resume via the following link:
       button:
         text: 'Download CV'
-        url: uploads/Maggi_Lorenzo_CV_eng.pdf
+        url: /uploads/Maggi_Lorenzo_CV_eng.pdf
         new_tab: true
     design:
       card:

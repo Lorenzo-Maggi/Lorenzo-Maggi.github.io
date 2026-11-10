@@ -5,7 +5,6 @@ tags:
   - research
 date: 2022-10-01
 
-# Dati per la mattonella in homepage
 image:
   caption: "The Normothermic Perfusion Prototype"
   focal_point: Smart
