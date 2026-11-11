@@ -92,9 +92,9 @@ hugoblox:
     language_switcher: false
     # Call-to-action button
     cta:
-      enable: false
-      text: ""
-      url: ""
+      enable: true
+      text: "Download CV"
+      url: "/uploads/Maggi_Lorenzo_CV_eng.pdf"
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
@@ -103,7 +103,7 @@ hugoblox:
   footer:
     # Footer style variant
     style: minimal                      # minimal | columns | centered
-    language_switcher: true
+    language_switcher: false
     # Custom footer text (HTML supported)
     text: ""
 
@@ -144,8 +144,8 @@ hugoblox:
       allow:
         - /
       disallow: []
-      note: "Guidance for AI crawlers - customize to match your public content."
-      contact: ""
+      note: "Official portfolio of Lorenzo Maggi, PhD — R&D Biomedical and Robotics Engineer specializing in surgical robotics (KUKA LBR Med), orthopedic & spinal implants, biomechanics, and EU MDR / IEC 62304 medical device development."
+      contact: "mailto:lore.maggi.1996@gmail.com"
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT

@@ -21,10 +21,10 @@ sections:
         enable: true
         prefix: "I am a"
         strings:
-          - "Biomedical Engineer"
-          - "PhD Researcher"
-          - "Robotics Enthusiast"
-          - "Maker & DIYer"
+          - "Biomedical & Robotics Engineer"
+          - "Surgical Robotics Specialist"
+          - "Medical Device R&D Engineer"
+          - "Hardware Maker & Prototyper"
         type_speed: 40
         delete_speed: 40
         pause_time: 1000
@@ -55,7 +55,7 @@ sections:
       subtitle: "A brief overview of my research in surgical robotics"
       text: |
         **[Watch on YouTube (Multi-language Subtitles Available)](https://youtu.be/5DqW-fMwWBU)**
-        [![My PhD in 3 Minutes](https://img.youtube.com/vi/5DqW-fMwWBU/maxresdefault.jpg)](https://youtu.be/5DqW-fMwWBU)
+        [![My PhD in 3 Minutes](/media/phd-video-thumb.jpg)](https://youtu.be/5DqW-fMwWBU)
     design:
       columns: '1'
       background:
@@ -63,7 +63,7 @@ sections:
           light: "#ffffff"
           dark: "#0d0d12"
       spacing:
-        padding: ["2rem", "0", "0rem", "0"]
+        padding: ["2rem", "0", "3rem", "0"]
   
   # 2. PORTFOLIO SECTION
   - block: portfolio
@@ -226,7 +226,6 @@ sections:
     design:
       card:
         css_class: 'bg-gradient-to-br from-primary-200 via-primary-100 to-secondary-200 dark:from-primary-600 dark:via-primary-700 dark:to-secondary-700'
-        text_color: dark
       background:
         color:
           light: "#ffffff"
